@@ -1,0 +1,11 @@
+.logo {
+    position: relative;
+    font-family: fantasy;
+    color: #37399e;
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+	padding: 1px;
+}
+
+img.img-logo {
+    padding: 0px 10px 5px 0px;
+}
