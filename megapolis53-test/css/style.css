@@ -1,0 +1,39 @@
+.logo {
+    position: relative;
+    font-family: fantasy;
+    color: #37399e;
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+	font-size: 30px;
+}
+
+img.img-logo {
+    padding: 0px 10px 5px 0px;
+}
+
+.head {
+	font-family: fantasy;
+	font-size: 24px;
+	color: #37399e;
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+.menu {
+	text-transform: uppercase;
+	font-weight:bold;
+	
+}
+
+
+.nav {
+    background: #f0f0f0;
+    border: 1px solid #dddddd;
+    padding: 3px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+.header {
+	margin-bottom: 75px;
+	
+	
+}
